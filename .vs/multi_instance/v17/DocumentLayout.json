@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\DebugUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\DebugUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\WindowManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\WindowManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\WindowManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\WindowManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Precompiled.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\Precompiled.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Precompiled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\Precompiled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\src\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugUtil.h",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\DebugUtil.h",
+              "RelativeDocumentMoniker": "App\\src\\DebugUtil.h",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\DebugUtil.h",
+              "RelativeToolTip": "App\\src\\DebugUtil.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-12T20:22:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "App\\src\\Main.cpp",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Main.cpp",
+              "RelativeToolTip": "App\\src\\Main.cpp",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T20:22:13.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowManager.cpp",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\WindowManager.cpp",
+              "RelativeDocumentMoniker": "App\\src\\WindowManager.cpp",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\WindowManager.cpp",
+              "RelativeToolTip": "App\\src\\WindowManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T20:22:13.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowManager.h",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\WindowManager.h",
+              "RelativeDocumentMoniker": "App\\src\\WindowManager.h",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\WindowManager.h",
+              "RelativeToolTip": "App\\src\\WindowManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-12T20:22:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Precompiled.h",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Precompiled.h",
+              "RelativeDocumentMoniker": "App\\src\\Precompiled.h",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Precompiled.h",
+              "RelativeToolTip": "App\\src\\Precompiled.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-12T20:22:08.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Precompiled.cpp",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Precompiled.cpp",
+              "RelativeDocumentMoniker": "App\\src\\Precompiled.cpp",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Precompiled.cpp",
+              "RelativeToolTip": "App\\src\\Precompiled.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T20:22:07.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Application.h",
+              "RelativeDocumentMoniker": "App\\src\\Application.h",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Application.h",
+              "RelativeToolTip": "App\\src\\Application.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-12T20:21:40.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "App\\src\\Application.cpp",
+              "ToolTip": "C:\\Users\\uhqzs\\Desktop\\multi_instance\\App\\src\\Application.cpp",
+              "RelativeToolTip": "App\\src\\Application.cpp",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T20:01:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
