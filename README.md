@@ -18,6 +18,6 @@
 ## Installation
 To run this, you need to download [Visual Studio](https://visualstudio.microsoft.com/)
 
-## Licence
+## License
 This tool is licensed, if you use the code for your own project, please indicate credits somewhere. 
 We do not provide any assistance to people wishing to make clones of this.
